@@ -58,3 +58,13 @@ This was one of my early projects and a step forward in my development journey.
 ## 🌐 Project Repository
 [🔗 GitHub Link](https://github.com/sameeksharawat7/NGO-hub)
 
+## 📷 Screenshots
+
+### 🧾 Account Creation Screen
+![Account Creation](screenshot/account%20creation.png)
+
+### 🔐 Admin Login Screen
+![Admin Login](screenshot/admin%20login.png)
+
+### 📊 Dashboard Screen
+![Dashboard](screenshot/dashboard.png)
